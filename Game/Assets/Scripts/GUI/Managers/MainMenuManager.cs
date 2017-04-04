@@ -19,4 +19,9 @@ public class MainMenuManager : MonoBehaviour {
     {
         screenSwitcher.SwitchTo(Screens.Options);
     }
+
+    public void Quit()
+    {
+        Application.Quit();
+    }
 }

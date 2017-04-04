@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <languages>
 	<polish>
-	<!-- ASD -->
 		<string name="play">Graj</string>
 		<string name="options">Opcje</string>
 		<string name="music">Muzyka</string>
+		<string name="quit">Koniec</string>
 	</polish>
 	<english>
 		<string name="play">Play</string>
 		<string name="options">Options</string>
 		<string name="music">Music</string>
+		<string name="quit">Quit</string>
 	</english>  
+	<german>
+		<string name="play">Spiel</string>
+		<string name="options">Optionen</string>
+		<string name="music">Musik</string>
+		<string name="quit">Ende</string>
+	</german>  
 </languages>

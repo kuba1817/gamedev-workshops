@@ -4,5 +4,6 @@ using System.Collections;
 public enum Languages {
 
     Polish,
-    English
+    English,
+    German
 }

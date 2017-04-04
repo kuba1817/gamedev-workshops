@@ -22,6 +22,11 @@ public class ChooseLanguageManager : MonoBehaviour {
         ChooseLanguageAndGoToMainMenu(Languages.English);
     }
 
+    public void ChooseGerman()
+    {
+        ChooseLanguageAndGoToMainMenu(Languages.German);
+    }
+
     private void ChooseLanguageAndGoToMainMenu(Languages language)
     {
         languageManager.SetLanguage(language);

@@ -5,5 +5,6 @@ public enum MultiLanguageTexts {
 
     Play,
     Options,
-    Music
+    Music,
+    Quit
 }
